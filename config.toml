@@ -16,12 +16,12 @@ contentDir = "content/english"
 weight = 1
 mark = "EN"
 
-[Languages.zh]
-languageName = "zh"
-languageCode = "zh-hk"
-contentDir = "content/zh-hk"
+[Languages.fr]
+languageName = "fr"
+languageCode = "fr"
+contentDir = "content/fr"
 weight = 2
-mark = "ZH"
+mark = "FR"
 
 
 [taxonomies]
