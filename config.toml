@@ -4,8 +4,8 @@ defaultContentLanguage = 'en'
 
 
 [params]
-  title = 'Remix, a theme for Hugo fully editable with Netlify CMS'
-  metaDescription = "Hugo + Netlify CMS + One click deploy to Netlify"
+  title = '安身立家 | louzihan.ml'
+  metaDescription = "懵懂少年到刚成家，期待未来"
 
 
 # Languages
@@ -16,12 +16,12 @@ contentDir = "content/english"
 weight = 1
 mark = "EN"
 
-[Languages.fr]
-languageName = "fr"
-languageCode = "fr-fr"
-contentDir = "content/fr"
+[Languages.zh]
+languageName = "zh"
+languageCode = "zh-hk"
+contentDir = "content/zh-hk"
 weight = 2
-mark = "FR"
+mark = "ZH"
 
 
 [taxonomies]
