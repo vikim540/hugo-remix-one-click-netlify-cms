@@ -1,6 +1,6 @@
 ---
 nType: product
-title: Iron oxide pigment
+title: Iron oxide pigment11
 theme:
   - c3
 image: /static/media/category4.jpg
